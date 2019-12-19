@@ -16,7 +16,9 @@ hr {
   border-top: 5px;
   width: 10%;
   border-style: dotted;
-
+}
+p {
+  font-size: 18px;
 }
 .topHr {
   margin-top: 50px;
@@ -118,6 +120,7 @@ hr {
 .myjob {
   position: relative;
   top: 50px;
+  font-size: 20px;
 }
 
 .profile2 {

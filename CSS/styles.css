@@ -180,3 +180,35 @@ padding-top: 25px;
   text-decoration: none;
   color: #f0f5f9;
 }
+.namebox {
+  background-color:#c9d6df ;
+  width: 500px;
+ 
+}
+.contact-position {
+  margin-top: 50px;
+}
+.comment {
+  background-color: #c9d6df;
+  width: 500px;
+  height: 100px;
+ 
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+.submit {
+  background-color: #c9d6df;
+ 
+}
+.submit:hover {
+  font-weight: bold;
+}
+.submit :focus {
+  border-style: solid;
+}
+.container {
+  margin-top: 20px;
+  
+}

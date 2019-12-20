@@ -2,7 +2,7 @@ body {
   margin: 0;
   background-color: #f0f5f9;
   text-align: center;
-  font-family: courier;
+  font-family: 'Courier Prime', monospace;
 }
 
 h1 {
@@ -81,6 +81,7 @@ p {
 }
 .header-link:hover {
   opacity: 0.7;
+  font-weight: bold;
 }
 .arc {
   font-style: italic;
@@ -162,6 +163,7 @@ padding-top: 25px;
 }
 .in {
   margin-top: 125px;
+  font-family: 'Shadows Into Light', cursive;
 }
 .colorskills {
   background-color: #f0f5f9;
